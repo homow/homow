@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><strong>Frontend Developer | React Enthusiast</strong></p>
+  <p><strong>Frontend Developer | React Enthusiast</strong></p>
   <img src="https://camo.githubusercontent.com/8a30593212c2d6a4cdd6b7f35f749c0999fa4d6681f75c349a091c2395e87e95/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578654456355a6e6c354e47706e62474e6f615863344f5868355a326c6b6457356b4d4731775933457a4f473573626d566c4e7a64795a435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f435458306976535162493738412f67697068792e676966" height="50%" alt="fun" data-canonical-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV5Znl5NGpnbGNoaXc4OXh5Z2lkdW5kMG1wY3EzOG5sbmVlNzdyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
