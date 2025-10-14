@@ -9,7 +9,6 @@
 ## 🧠 About Me
 
 - ⚙️ I’m Front-end Developer
-- 🔭 I’m currently learning **React.js**
 - 🌱 Exploring advanced UI architecture & animation
 - 💬 Ask me about React, Vite, or design systems
 
