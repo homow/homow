@@ -18,28 +18,33 @@
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/>
+    <img src="https://vitejs.dev/logo.svg" width="40" alt="Vite"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   </a>
 </p>
-
 
 ---
 
@@ -47,13 +52,15 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@homow_dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" height="40" alt="YouTube" style="fill:#FF0000"/>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
   </a>
-  <a href="https://homow.ir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firefox.svg" width="40" height="40" alt="Website" style="fill:#FF9400"/>
+  &nbsp;&nbsp;
+ <a href="https://homow.ir" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="Website" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/homow_dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" alt="Instagram" style="fill:#E4405F"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
@@ -72,22 +79,23 @@
 Feel free to reach out for collaboration, questions, or just to say hi 👋
 
 <p align="center">
-  <a href="mailto:homow_dev@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:homow_dev@proton.me" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
   </a>
-  <a href="https://t.me/homow_dev">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  &nbsp;&nbsp;
+  <a href="https://t.me/homow_dev" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
   </a>
-  <a href="https://wa.me/989210629512">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  &nbsp;&nbsp;
+  <a href="https://wa.me/989210629512" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
-Or just message me on:  
-📧 Email: **homow_dev@proton.me**  
-📱 Telegram: **@homow_dev**  
-📞 WhatsApp: **+98 921 062 9512**
+<p>
+  Or just message me on:<br/><br/>
 
----
-
-> Made by Homow — Powered by SpongeBob energy 🧽
+  📧 <a href="mailto:homow_dev@proton.me">Email</a>: homow_dev@proton.me<br/>
+  📱 <a href="https://t.me/homow_dev">Telegram</a>: @homow_dev<br/>
+  📞 <a href="https://wa.me/989210629512">WhatsApp</a>: +98 921 062 9512
+</p>
