@@ -68,13 +68,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=homow&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=homow&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
+
+---
+
+## 🧬 Languages I Build With
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Languages+I+Build+With" alt="Typing SVG" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homow&layout=compact&theme=tokyonight&hide=php" alt="Top Languages" />
+</div>
 
 ---
 
