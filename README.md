@@ -51,10 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=homow&theme=radical" alt="GitHub Streak" />
 </div>
 
----
-
-## 🧬 Languages I Build With
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Languages+I+Build+With" alt="Typing SVG" />
   <br />
