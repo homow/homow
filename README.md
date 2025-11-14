@@ -16,35 +16,12 @@
 
 ## 🛠️ Technologies I Use
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://vitejs.dev/logo.svg" width="40" alt="Vite"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  </a>
-</p>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,tailwind,js,ts,react,vite,supabase,firebase,git,github&perline=4)](https://skillicons.dev)
+
+</div>
+
 
 ---
 
