@@ -71,7 +71,7 @@
     <picture>
       <source
         id="streak-stats-weekly-dark-mode"
-        srcset="https://github-readme-streak-stats-eight.vercel.app?user=homow&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&mode=weekly&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=18&border=BA935B&stroke=BA935B&fire=BA935B&ring=2F80ED&currStreakNum=E4E2E2&currStreakLabel=E4E2E2&sideNums=E4E2E2&sideLabels=E4E2E2&dates=E4E2E2"
+        srcset="https://github-readme-streak-stats-eight.vercel.app?user=homow&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=18&border=BA935B&stroke=BA935B&fire=BA935B&ring=2F80ED&currStreakNum=E4E2E2&currStreakLabel=E4E2E2&sideNums=E4E2E2&sideLabels=E4E2E2&dates=E4E2E2"
         media="(prefers-color-scheme: dark)"
       />
       <source
