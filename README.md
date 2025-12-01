@@ -81,8 +81,8 @@
       />
       <img
         src="https://github-readme-streak-stats-eight.vercel.app?user=homow&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&mode=weekly&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=18&border=BA935B&stroke=BA935B&fire=BA935B&ring=2F80ED&currStreakNum=434d58&currStreakLabel=434d58&sideNums=434d58&sideLabels=434d58&dates=434d58"
-        title="Homelab-Alpha Streak Statistics"
-        alt="Streak statistics for the Homelab-Alpha GitHub account, showing current and longest streak."
+        title="homow Streak Statistics"
+        alt="Streak statistics for the homow GitHub account, showing current and longest streak."
         loading="lazy"
       />
     </picture>
