@@ -9,8 +9,8 @@
 ## 🧠 About Me
 
 - ⚙️ I’m Front-end Developer
-- 🌱 Exploring advanced UI architecture & animation
-- 💬 Ask me about React, Vite, or design systems
+- 🌱 Exploring architecture & structure
+- 💬 Ask me about React, Vite, Next or design systems
 
 ---
 
