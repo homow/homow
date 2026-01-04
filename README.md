@@ -45,69 +45,29 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-  <a href="#-my-statistics" rel="noopener noreferrer">
-    <picture>
-      <source
-        id="github-stats-dark-mode"
-        srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=homow&custom_title=homow'%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=18&border_color=BA935B&title_color=2f80ed&text_color=e4e2e2&icon_color=BA935B&cache_seconds=43200"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        id="github-stats-light-mode"
-        srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=homow&custom_title=homow'%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=18&border_color=BA935B&title_color=2f80ed&text_color=434d58&icon_color=BA935B&cache_seconds=43200"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api?username=homow&custom_title=homow'%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=18&border_color=BA935B&title_color=2f80ed&text_color=434d58&icon_color=BA935B&cache_seconds=43200"
-        title="homow Statistics"
-        alt="GitHub statistics for the homow account, displaying contributions and other metrics."
-        loading="lazy"
-      />
-    </picture>
-  </a>
+<div align="center">
+  <img 
+    src="https://github-readme-stats-steel-omega.vercel.app/api?username=homow&theme=radical&show_icons=true&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1" 
+    alt="GitHub Stats"
+  />
+</div>
 
-  <a href="#-my-statistics" rel="noopener noreferrer">
-    <picture>
-      <source
-        id="streak-stats-weekly-dark-mode"
-        srcset="https://github-readme-streak-stats-eight.vercel.app?user=homow&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=18&border=BA935B&stroke=BA935B&fire=BA935B&ring=2F80ED&currStreakNum=E4E2E2&currStreakLabel=E4E2E2&sideNums=E4E2E2&sideLabels=E4E2E2&dates=E4E2E2"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        id="streak-stats-weekly-light-mode"
-        srcset="https://github-readme-streak-stats-eight.vercel.app?user=homow&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&mode=weekly&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=18&border=BA935B&stroke=BA935B&fire=BA935B&ring=2F80ED&currStreakNum=434d58&currStreakLabel=434d58&sideNums=434d58&sideLabels=434d58&dates=434d58"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app?user=homow&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&mode=weekly&short_numbers=false&disable_animations=true&card_width=385&card_height=195&background=00000000&border_radius=18&border=BA935B&stroke=BA935B&fire=BA935B&ring=2F80ED&currStreakNum=434d58&currStreakLabel=434d58&sideNums=434d58&sideLabels=434d58&dates=434d58"
-        title="homow Streak Statistics"
-        alt="Streak statistics for the homow GitHub account, showing current and longest streak."
-        loading="lazy"
-      />
-    </picture>
-  </a>
+<br/>
 
-  <a href="#-my-statistics" rel="noopener noreferrer">
-    <picture>
-      <source
-        id="lang-stats-dark-mode"
-        srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&count_private=false&card_width=440&show_icons=true&disable_animations=true&layout=compact&bg_color=00000000&border_radius=18&border_color=BA935B&title_color=2f80ed&text_color=e4e2e2&icon_color=BA935B&cache_seconds=43200"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        id="lang-stats-light-mode"
-        srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&count_private=false&card_width=440&show_icons=true&disable_animations=true&layout=compact&bg_color=00000000&border_radius=18&border_color=BA935B&title_color=2f80ed&text_color=434d58&icon_color=BA935B&cache_seconds=43200"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&count_private=false&card_width=440&show_icons=true&disable_animations=true&layout=compact&bg_color=00000000&border_radius=18&border_color=BA935B&title_color=2f80ed&text_color=434d58&icon_color=BA935B&cache_seconds=43200"
-        title="homow Programming Language Usage"
-        alt="Top programming languages used by homow based on GitHub contributions."
-        loading="lazy"
-      />
-    </picture>
-  </a>
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=homow&theme=radical&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1" 
+    alt="GitHub Streak"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&theme=radical&layout=compact&card_width=440&border_radius=18&border_color=BA935B&border_width=1" 
+    alt="Top Languages"
+  />
 </div>
 
 ---
