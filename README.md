@@ -11,7 +11,7 @@
 - ⚙️ I’m Web Developer
 - 🌱 Exploring architecture & structure
 - 💬 Ask me about Express, Next or design systems
-
+- 🪢 Focus on Back-end
 ---
 
 ## 🛠️ Technologies I Use
