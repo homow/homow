@@ -18,12 +18,29 @@
 
 ## 🛠️ Technologies I Use
 
+<div align="center"><p><strong>Programming and Framework Language</strong></p></div>
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,tailwind,js,ts,react,vite,next,supabase,firebase,git,github,nodejs,expressjs,nestjs,mongodb,mysql,postgres&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,tailwind,js,ts,vite,react,next,nodejs,expressjs,nestjs&perline=4)](https://skillicons.dev)
 
 </div>
 
+<div align="center"><p><strong>DataBases</strong></p></div>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgres,prisma&perline=3)](https://skillicons.dev)
+
+</div>
+
+<div align="center"><p><strong>Other Tools</strong></p></div>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,webstorm,linux&perline=4)](https://skillicons.dev)
+
+</div>
 
 ---
 
