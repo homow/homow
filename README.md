@@ -1,5 +1,6 @@
 <div align="center">
   <p><strong>full-stack Developer</strong></p>
+  <p><strong>System Architecture & Backend‑focused</strong></p>
 
   <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV5Znl5NGpnbGNoaXc4OXh5Z2lkdW5kMG1wY3EzOG5sbmVlNzdyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="60%" height="50%" alt="fun">
@@ -10,10 +11,10 @@
 
 ## 🧠 About Me
 
-- ⚙️ I’m Web Developer
-- 🌱 Exploring architecture & structure
-- 💬 Ask me about Express/Nest, Next or design systems
+- ⚙️ Full‑stack dev with a backend & architecture mindset
 - 🪢 Focus on Back-end
+- 🪢 Working mainly with NestJS, Prisma, PostgreSQL
+- 💬 Ask me about backend architecture, API design, or system structure
 ---
 
 ## 🛠️ Technologies I Use
