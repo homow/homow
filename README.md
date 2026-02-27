@@ -19,7 +19,7 @@
 
 ## 🛠️ Technologies I Use
 
-<div align="center"><p><strong>Programming and Framework Language</strong></p></div>
+<div align="center"><p><strong>Programming language and framework</strong></p></div>
 
 <div align="center">
 
