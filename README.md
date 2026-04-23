@@ -39,7 +39,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,webstorm,linux&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux&perline=4)](https://skillicons.dev)
 
 </div>
 
