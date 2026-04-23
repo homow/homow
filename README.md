@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgres,prisma&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgres,redis&perline=3)](https://skillicons.dev)
 
 </div>
 
