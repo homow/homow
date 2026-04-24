@@ -11,11 +11,16 @@
 
 ## 🧠 About Me
 
-- ⚙️ Full‑stack dev with a backend & architecture mindset
-- 🪢 Focus on Back-end
-- 🪢 Working mainly with NestJS, Prisma, PostgreSQL
-- 💬 Ask me about backend architecture, API design, or system structure
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA935B&center=true&vCenter=true&width=435&lines=Backend+%26+System+Architecture;Linux+%7C+Docker+%7C+DevOps;NestJS+%7C+Prisma+%7C+PostgreSQL" alt="Typing SVG" />
+</div>
+
+<br/>
+
+- ⚙️ **Backend‑focused full‑stack** developer with a passion for **system architecture**
+- 🐧 Deeply interested in **Linux**, **DevOps**, and **containerization (Docker)**
+- 🪢 Currently working with **NestJS**, **Prisma**, **PostgreSQL**
+- 💬 Ask me about **backend design**, **API architecture**, or **system structure**
 
 ## 🛠️ Technologies I Use
 
@@ -27,7 +32,7 @@
 
 </div>
 
-<div align="center"><p><strong>DataBases</strong></p></div>
+<div align="center"><p><strong>DataBases & ORM</strong></p></div>
 
 <div align="center">
 
@@ -49,7 +54,8 @@
 
 <div align="center">
 
-[![Skills](https://skills.syvixor.com/api/icons?i=graphql,websocket,microservices)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=graphql,websocket)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=zod)](https://github.com/syvixor/skills-icons)
 
 </div>
 
