@@ -31,15 +31,25 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgres,redis&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres&perline=4)](https://skillicons.dev)
+</br>
+[![Skills](https://skills.syvixor.com/api/icons?i=mongodb,typeorm,prisma,redis)](https://github.com/syvixor/skills-icons)
 
 </div>
 
-<div align="center"><p><strong>Other Tools</strong></p></div>
+<div align="center"><p><strong>DevOps & Core Tools</strong></p></div>
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux&perline=4)](https://skillicons.dev)
+
+</div>
+
+<div align="center"><p><strong>Advanced / Distributed</strong></p></div>
+
+<div align="center">
+
+[![Skills](https://skills.syvixor.com/api/icons?i=graphql,websocket,microservices)](https://github.com/syvixor/skills-icons)
 
 </div>
 
