@@ -55,7 +55,7 @@
 <div align="center">
 
 [![Skills](https://skills.syvixor.com/api/icons?i=graphql,websocket)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=zod)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=zod,vitest)](https://github.com/syvixor/skills-icons)
 
 </div>
 
