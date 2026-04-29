@@ -96,15 +96,23 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=homow&theme=radical&show_icons=true&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1" alt="GitHub Stats" />
+  <br />
+  <strong>Profile Stats</strong>
+</div>
 
-| ![GitHub Stats](https://github-readme-stats-steel-omega.vercel.app/api?username=homow&theme=radical&show_icons=true&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1) | ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=homow&theme=radical&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1) |
-|:---:|:---:|
-| **Profile Stats** | **Contribution Streak** |
+<br />
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=homow&theme=radical&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1" alt="GitHub Streak" />
+  <br />
+  <strong>Contribution Streak</strong>
+</div>
 
-![Top Languages](https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&theme=radical&layout=compact&card_width=880&border_radius=18&border_color=BA935B&border_width=1)
+<br />
 
+<div align="center">
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&theme=radical&layout=compact&card_width=880&border_radius=18&border_color=BA935B&border_width=1" alt="Top Languages" />
 </div>
 
 ---
