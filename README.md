@@ -112,7 +112,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&theme=radical&layout=compact&card_width=880&border_radius=18&border_color=BA935B&border_width=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&theme=radical&layout=compact&card_width=395&border_radius=18&border_color=BA935B&border_width=1" alt="Top Languages" />
 </div>
 
 ---
