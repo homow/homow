@@ -1,6 +1,7 @@
 <div align="center">
-  <p><strong>full-stack Developer</strong></p>
-  <p><strong>System Architecture & Backend‑focused</strong></p>
+  
+  ### full-stack Developer
+  ### System Architecture & Backend‑focused
 
   <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV5Znl5NGpnbGNoaXc4OXh5Z2lkdW5kMG1wY3EzOG5sbmVlNzdyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="60%" height="50%" alt="fun">
