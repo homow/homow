@@ -23,6 +23,14 @@
 - 🪢 Currently working with **NestJS**, **Prisma**, **PostgreSQL**
 - 💬 Ask me about **backend design**, **API architecture**, or **system structure**
 
+
+
+I focus on building clean, scalable backends with **NestJS**, **PostgreSQL**, and **Prisma**.  
+I know frontend development, but my real passion is **backend architecture**, **Linux**, and **containerization**.  
+For me, a good backend isn't just code — it's structure, performance, and reproducibility.
+
+---
+
 ## 🛠️ Technologies I Use
 
 <div align="center"><p><strong>Programming language and framework</strong></p></div>
