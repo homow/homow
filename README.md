@@ -77,7 +77,7 @@ For me, a good backend isn't just code it's structure, performance, and reproduc
 
 ### 🚗 Car Rental System
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardi-niyayesh&repo=car_service&theme=radical&border_color=BA935B&border_radius=18)](https://github.com/mardi-niyayesh/car_service)
+[![Readme Card](https://gh-readme-stats.vercel.app/api/pin/?username=mardi-niyayesh&repo=car_service&theme=radical&border_color=BA935B&border_radius=18)](https://github.com/mardi-niyayesh/car_service)
 
 **Role:** Collaborator (Backend & System Architecture)
 
