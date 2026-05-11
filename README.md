@@ -26,9 +26,9 @@
 
 
 
-I focus on building clean, scalable backends with **NestJS**, **PostgreSQL**, and **Prisma**.  
-I know frontend development, but my real passion is **backend architecture**, **Linux**, and **containerization**.  
-For me, a good backend isn't just code it's structure, performance, and reproducibility.
+**I build scalable backends with NestJS + PostgreSQL.**  
+Passionate about backend architecture, Linux, and containerization.  
+A good backend = structure + performance + reproducibility.
 
 ---
 
