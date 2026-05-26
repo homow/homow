@@ -48,7 +48,7 @@ A good backend = structure + performance + reproducibility.
 
 [![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres&perline=4)](https://skillicons.dev)
 </br>
-[![Skills](https://skills.syvixor.com/api/icons?i=mongodb,typeorm,prisma,redis)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=mongodb,redis,typeorm,drizzle,prisma)](https://github.com/syvixor/skills-icons)
 
 </div>
 
