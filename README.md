@@ -21,7 +21,7 @@
 
 - ⚙️ **Backend‑focused full‑stack** developer with a passion for **system architecture**
 - 🐧 Deeply interested in **Linux**, **DevOps**, and **containerization (Docker)**
-- 🪢 Currently working with **NestJS**, **Prisma**, **PostgreSQL**
+- 🪢 Currently working with **NestJS**, **Drizzle**, **PostgreSQL**
 - 💬 Ask me about **backend design**, **API architecture**, or **system structure**
 
 
