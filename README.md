@@ -37,36 +37,57 @@ A good backend = structure + performance + reproducibility.
 <div align="center"><p><strong>Programming language and framework</strong></p></div>
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,tailwind,js,ts,vite,react,next,nodejs,expressjs,nestjs&perline=4)](https://skillicons.dev)
-
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=python&showText=true&textAlignment=vertical" width="70" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=javascript&showText=true&textAlignment=vertical" width="90" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=typescript&showText=true&textAlignment=vertical" width="90" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=react&showText=true&textAlignment=vertical" width="60" />
+  <br/>
+  <br/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=nextjs&showText=true&textAlignment=vertical&color=%238b5cf6" width="80" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=nodejs&showText=true&textAlignment=vertical" width="80" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=express&showText=true&textAlignment=vertical&color=%23f59e0b" width="90" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=nestjs&showText=true&textAlignment=vertical" width="70" />
 </div>
+
+<br/>
+<br/>
 
 <div align="center"><p><strong>DataBases & ORM</strong></p></div>
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres&perline=4)](https://skillicons.dev)
-</br>
-[![Skills](https://skills.syvixor.com/api/icons?i=mongodb,redis,typeorm,drizzle,prisma)](https://github.com/syvixor/skills-icons)
-
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=supabase&showText=true&textAlignment=vertical" width="80" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=firebase&showText=true&textAlignment=vertical" width="80" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=mysql&textAlignment=vertical" width="80" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=postgresql&showText=true&textAlignment=vertical" width="80" />
+  <br/>
+  <br/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=mongodb&showText=true&textAlignment=vertical" width="70" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=redis&showText=true&textAlignment=vertical" width="50" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=typeorm&showText=true&textAlignment=vertical" width="70" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=drizzle&showText=true&textAlignment=vertical" width="80" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=prisma&showText=true&textAlignment=vertical&color=%233b82f6" width="70" />
 </div>
+
+<br/>
+<br/>
 
 <div align="center"><p><strong>DevOps & Core Tools</strong></p></div>
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux&perline=4)](https://skillicons.dev)
-
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=git&showText=true&textAlignment=vertical" width="60" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&showText=true&textAlignment=vertical&color=%238b5cf6" width="70" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=docker&showText=true&textAlignment=vertical" width="70" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=linux&showText=true&textAlignment=vertical" width="70" />
 </div>
+
+<br/>
+<br/>
 
 <div align="center"><p><strong>Advanced / Distributed</strong></p></div>
 
 <div align="center">
-
-[![Skills](https://skills.syvixor.com/api/icons?i=graphql,websocket)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=zod,vitest)](https://github.com/syvixor/skills-icons)
-
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=graphql&showText=true&textAlignment=vertical" width="70" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=socketdotio&showText=true&textAlignment=vertical&color=%233b82f6" width="80" />
 </div>
 
 ---
