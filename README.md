@@ -56,16 +56,16 @@ A good backend = structure + performance + reproducibility.
 
 <div align="center">
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=supabase&showText=true&textAlignment=vertical" width="80" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=firebase&showText=true&textAlignment=vertical" width="80" />
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=mysql&textAlignment=vertical" width="80" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=firebase&showText=true&textAlignment=vertical" width="80" />
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=postgresql&showText=true&textAlignment=vertical" width="80" />
   <br/>
   <br/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=mongodb&showText=true&textAlignment=vertical" width="70" />
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=redis&showText=true&textAlignment=vertical" width="50" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=mongodb&showText=true&textAlignment=vertical" width="70" />
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=typeorm&showText=true&textAlignment=vertical" width="70" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=drizzle&showText=true&textAlignment=vertical" width="80" />
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=prisma&showText=true&textAlignment=vertical&color=%233b82f6" width="70" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=drizzle&showText=true&textAlignment=vertical" width="80" />
 </div>
 
 <br/>
