@@ -24,8 +24,6 @@
 - 🪢 Currently working with **NestJS**, **Drizzle**, **PostgreSQL**
 - 💬 Ask me about **backend design**, **API architecture**, or **system structure**
 
-
-
 **I build scalable backends with NestJS + PostgreSQL.**  
 Passionate about backend architecture, Linux, and containerization.  
 A good backend = structure + performance + reproducibility.
