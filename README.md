@@ -1,50 +1,20 @@
-<div align="center">
-  
-  <div><strong>full-stack Developer</strong></div>
-  <div><strong>System Architecture & Backend‑focused</strong></div>
-  <br></br>
-
-  <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV5Znl5NGpnbGNoaXc4OXh5Z2lkdW5kMG1wY3EzOG5sbmVlNzdyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="60%" height="50%" alt="fun">
-</div>
-</div>
-
----
-
-## 🧠 About Me
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA935B&center=true&vCenter=true&width=435&lines=Backend+%26+System+Architecture;Linux+%7C+Docker+%7C+DevOps;NestJS+%7C+Drizzle+%7C+PostgreSQL" alt="Typing SVG" />
-</div>
-
-<br/>
-
-- ⚙️ **Backend‑focused full‑stack** developer with a passion for **system architecture**
-- 🐧 Deeply interested in **Linux**, **DevOps**, and **containerization (Docker)**
-- 🪢 Currently working with **NestJS**, **Drizzle**, **PostgreSQL**
-- 💬 Ask me about **backend design**, **API architecture**, or **system structure**
-
-**I build scalable backends with NestJS + PostgreSQL.**  
-Passionate about backend architecture, Linux, and containerization.  
-A good backend = structure + performance + reproducibility.
-
----
-
-## 🛠️ Technologies I Use
-
 <div align="center"><p><strong>Programming language and framework</strong></p></div>
 
 <div align="center">
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=python&showText=true&textAlignment=vertical" width="70" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=javascript&showText=true&textAlignment=vertical" width="90" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=typescript&showText=true&textAlignment=vertical" width="90" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=react&showText=true&textAlignment=vertical" width="60" />
-  <br/>
-  <br/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=nextjs&showText=true&textAlignment=vertical&color=%238b5cf6" width="80" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=nodejs&showText=true&textAlignment=vertical" width="80" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=express&showText=true&textAlignment=vertical&color=%23f59e0b" width="90" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=nestjs&showText=true&textAlignment=vertical" width="70" />
+<table>
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=nodejs&textAlignment=vertical" width="50" /><br><sub><b>Node.js</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br><sub><b>React.js</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" style="filter: invert(1);"/><br><sub><b>Next.js</b></sub></td>
+<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=express&textAlignment=vertical&color=%23f59e0b" width="50" /><br><sub><b>Express.js</b></sub></td>
+<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=nestjs&textAlignment=vertical" width="50" /><br><sub><b>NestJS</b></sub></td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -87,87 +57,3 @@ A good backend = structure + performance + reproducibility.
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=graphql&showText=true&textAlignment=vertical" width="70" />
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=socketdotio&showText=true&textAlignment=vertical&color=%233b82f6" width="80" />
 </div>
-
----
-
-## 🧩 Collaborative Project
-
-<div align="center">
-
-### 🚗 Car Rental System
-
-[![Readme Card](https://gh-readme-stats.vercel.app/api/pin/?username=mardi-niyayesh&repo=car_service&theme=radical&border_color=BA935B&border_radius=18)](https://github.com/mardi-niyayesh/car_service)
-
-**Role:** Collaborator (Backend & System Architecture)
-
-</div>
-
----
-
-## 🌐 Follow Me On
-
-<p align="center">
-  <a href="https://www.youtube.com/@homow_dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-  </a>
-  &nbsp;&nbsp;
- <a href="https://homow.ir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="Website" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/homow_dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=homow&theme=radical&show_icons=true&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1" alt="GitHub Stats" />
-  <br />
-  <strong>Profile Stats</strong>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=homow&theme=radical&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1" alt="GitHub Streak" />
-  <br />
-  <strong>Contribution Streak</strong>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&theme=radical&layout=compact&card_width=395&border_radius=18&border_color=BA935B&border_width=1" alt="Top Languages" />
-</div>
-
----
-
-## 📬 Contact Me
-
-Feel free to reach out for collaboration, questions, or just to say hi 👋
-
-<p align="center">
-  <a href="mailto:homow_dev@proton.me" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/homow_dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/989210629512" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-  </a>
-</p>
-
-<p>
-  Or just message me on:<br/><br/>
-
-  📧 <a href="mailto:homow_dev@proton.me">Email</a>: homow_dev@proton.me<br/>
-  📱 <a href="https://t.me/homow_dev">Telegram</a>: @homow_dev<br/>
-  📞 <a href="https://wa.me/989210629512">WhatsApp</a>: +98 921 062 9512
-</p>
