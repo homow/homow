@@ -66,10 +66,10 @@ A good backend = structure + performance + reproducibility.
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" height="48"/><br><sub><b>FireBase</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/><br><sub><b>PostgreSQL</b></sub></td>
 </tr>
+  
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/><br><sub><b>Redis</b></sub></td>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=mongodb&textAlignment=vertical" width="50" /><br><sub><b>MongoDB</b></sub></td>
-
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/><br><sub><b>Redis</b></sub></td>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=prisma&textAlignment=vertical&color=%233b82f6" width="50" /><br><sub><b>Prisma</b></sub></td>
 <td align="center" width="100">
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=drizzle&textAlignment=vertical" width="50" /><br><sub><b>Drizzle</b></sub></td>
@@ -93,7 +93,7 @@ A good backend = structure + performance + reproducibility.
 <br/>
 <br/>
 
-<div align="center"><p><strong>Advanced / Distributed</strong></p></div>
+<div align="center"><p><strong>Advanced</strong></p></div>
 <div align="center">
 <table><tr>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=graphql&textAlignment=vertical" width="50" /><br><sub><b>GraphQL</b></sub></td>
