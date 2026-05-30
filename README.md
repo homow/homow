@@ -96,8 +96,9 @@ A good backend = structure + performance + reproducibility.
 <div align="center"><p><strong>Advanced / Distributed</strong></p></div>
 <div align="center">
 <table><tr>
-<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=graphql&textAlignment=vertical" width="60" /><br><sub><b>GraphQL</b></sub></td>
-<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=socketdotio&textAlignment=vertical&color=%233b82f6" width="60" /><br><sub><b>WebSocket</b></sub></td>
+<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=graphql&textAlignment=vertical" width="50" /><br><sub><b>GraphQL</b></sub></td>
+<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=socketdotio&textAlignment=vertical&color=%233b82f6" width="50" /><br><sub><b>WebSocket</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="48" height="48" style="filter: invert(1);"/><br><sub><b>Vitest</b></sub></td>
 </tr></table>
 </div>
 </div>
