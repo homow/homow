@@ -47,7 +47,7 @@ A good backend = structure + performance + reproducibility.
 <tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br><sub><b>React.js</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" style="filter: invert(1);"/><br><sub><b>Next.js</b></sub></td>
-<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=express&textAlignment=vertical&color=%23f59e0b" width="50" /><br><sub><b>Express.js</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=express&perline=9&theme=dark" /><br><sub><b>Express.js</b></sub></td>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=nestjs&textAlignment=vertical" width="50" /><br><sub><b>NestJS</b></sub></td>
 </tr>
 </table>
