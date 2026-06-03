@@ -84,7 +84,7 @@ A good backend = structure + performance + reproducibility.
 <div align="center">
 <table><tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=github&textAlignment=vertical&color=%238b5cf6" width="50" /><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=github&perline=9&theme=dark" /><br><sub><b>GitHub</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" height="52"/><br><sub><b>Docker</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" style="filter: invert(1);"/><br><sub><b>Linux</b></sub></td>
 </tr></table>
