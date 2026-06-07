@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA935B&center=true&vCenter=true&width=435&lines=Backend+%26+System+Architecture;Linux+%7C+Docker+%7C+DevOps;NestJS+%7C+Drizzle+%7C+PostgreSQL" alt="Typing SVG" />
