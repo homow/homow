@@ -1,6 +1,6 @@
 <div align="center">
   
-  <div><strong>full-stack Developer</strong></div>
+  <div><strong>Full-Stack Developer</strong></div>
   <div><strong>System Architecture & Backend‑focused</strong></div>
   <br></br>
 
