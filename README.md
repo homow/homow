@@ -1,11 +1,11 @@
 <div align="center">
-  
+
   <div><strong>Full-Stack Developer</strong></div>
   <div><strong>System Architecture & Backend‑focused</strong></div>
   <br></br>
 
   <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV5Znl5NGpnbGNoaXc4OXh5Z2lkdW5kMG1wY3EzOG5sbmVlNzdyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="60%" height="50%" alt="fun">
+  <img src="sponge.gif" width="500" height="370" alt="fun">
 </div>
 </div>
 
@@ -23,8 +23,6 @@
 - 🐧 Deeply interested in **Linux**, **DevOps**, and **containerization (Docker)**
 - 🪢 Currently working with **NestJS**, **Drizzle**, **PostgreSQL**
 - 💬 Ask me about **backend design**, **API architecture**, or **system structure**
-
-
 
 **I build scalable backends with NestJS + PostgreSQL.**  
 Passionate about backend architecture, Linux, and containerization.  
@@ -66,7 +64,7 @@ A good backend = structure + performance + reproducibility.
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" height="48"/><br><sub><b>FireBase</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/><br><sub><b>PostgreSQL</b></sub></td>
 </tr>
-  
+
 <tr>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=mongodb&textAlignment=vertical" width="50" /><br><sub><b>MongoDB</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/><br><sub><b>Redis</b></sub></td>
@@ -184,7 +182,7 @@ Feel free to reach out for collaboration, questions, or just to say hi 👋
 <p>
   Or just message me on:<br/><br/>
 
-  📧 <a href="mailto:homow_dev@proton.me">Email</a>: homow_dev@proton.me<br/>
-  📱 <a href="https://t.me/homow_dev">Telegram</a>: @homow_dev<br/>
-  📞 <a href="https://wa.me/989210629512">WhatsApp</a>: +98 921 062 9512
+📧 <a href="mailto:homow_dev@proton.me">Email</a>: homow_dev@proton.me<br/>
+📱 <a href="https://t.me/homow_dev">Telegram</a>: @homow_dev<br/>
+📞 <a href="https://wa.me/989210629512">WhatsApp</a>: +98 921 062 9512
 </p>
