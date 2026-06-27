@@ -32,7 +32,7 @@ A good backend = structure + performance + reproducibility.
 
 ## 🛠️ Technologies I Use
 
-<div align="center"><p><strong>Programming language and framework</strong></p></div>
+<div align="center"><p><strong>Programming languages & frameworks</strong></p></div>
 
 <div align="center">
 <table>
