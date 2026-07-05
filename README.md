@@ -144,7 +144,7 @@ A good backend = structure + performance + reproducibility.
 
 ## 📬 Contact Me
 
-Feel free to reach out for collaboration, questions, or just to say hi 👋
+Feel free to reach out for collaboration
 
 <p align="center">
   <a href="mailto:homow_dev@proton.me" target="_blank">
