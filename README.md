@@ -153,11 +153,6 @@ Feel free to reach out for collaboration, questions, or just to say hi 👋
   &nbsp;&nbsp;
   <a href="https://t.me/homow_dev" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/989210629512" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-  </a>
 &nbsp;&nbsp;
   <a href="https://www.instagram.com/homow_dev" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
@@ -169,6 +164,5 @@ Feel free to reach out for collaboration, questions, or just to say hi 👋
 
 📧 <a href="mailto:homow_dev@proton.me">Email</a>: homow_dev@proton.me<br/>
 📱 <a href="https://t.me/homow_dev">Telegram</a>: @homow_dev<br/>
-📞 <a href="https://wa.me/989210629512">WhatsApp</a>: +98 921 062 9512<br/>
 📟 <a href="https://www.instagram.com/homow_dev">Instagram</a>: homow_dev
 </p>
