@@ -1,9 +1,11 @@
 <div align="center">
 
   <div><strong>Full-Stack Developer</strong></div>
-  
+
   <div><strong>System Architecture, Backend‑focused & DevOps</strong></div>
+  
   <br></br>
+  
   <div align="center">
   <img src="sponge.gif" width="500" height="370" alt="fun">
 </div>
