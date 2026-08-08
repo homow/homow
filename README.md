@@ -77,12 +77,10 @@ A good backend = structure + performance + reproducibility.
 <br/>
 <br/>
 
-<div align="center"><p><strong>DevOps & Core Tools</strong></p></div>
+<div align="center"><p><strong>DevOps & Infrastructure</strong></p></div>
 
 <div align="center">
 <table><tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=github&perline=9&theme=dark" /><br><sub><b>GitHub</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" height="52"/><br><sub><b>Docker</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" style="filter: invert(1);"/><br><sub><b>Linux</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" style="filter: invert(1);"/><br><sub><b>Nginx</b></sub></td>
