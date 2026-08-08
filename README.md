@@ -34,7 +34,7 @@ A good backend = structure + performance + reproducibility.
 
 ## 🛠️ Technologies I Use
 
-<div align="center"><p><strong>Programming languages & frameworks</strong></p></div>
+<div align="center"><p><strong>Programming Languages & Frameworks</strong></p></div>
 
 <div align="center">
 <table>
@@ -56,19 +56,17 @@ A good backend = structure + performance + reproducibility.
 <br/>
 <br/>
 
-<div align="center"><p><strong>DataBases & ORM</strong></p></div>
+<div align="center"><p><strong>Databases & ORM</strong></p></div>
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48"/><br><sub><b>Supabase</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/><br><sub><b>MySQL</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" height="48"/><br><sub><b>FireBase</b></sub></td>
+<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=mongodb&textAlignment=vertical" width="50" /><br><sub><b>MongoDB</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/><br><sub><b>PostgreSQL</b></sub></td>
 </tr>
 
 <tr>
-<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=mongodb&textAlignment=vertical" width="50" /><br><sub><b>MongoDB</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/><br><sub><b>Redis</b></sub></td>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=prisma&textAlignment=vertical&color=%233b82f6" width="50" /><br><sub><b>Prisma</b></sub></td>
 <td align="center" width="100">
