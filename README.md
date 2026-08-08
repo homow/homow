@@ -15,20 +15,15 @@
 
 ## About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA935B&center=true&vCenter=true&width=435&lines=Backend+%26+System+Architecture;Linux+%7C+Docker+%7C+DevOps;NestJS+%7C+Drizzle+%7C+PostgreSQL" alt="Typing SVG" />
-</div>
+* ⚙️ **Backend-focused Full-Stack Developer** specializing in **system architecture, API design, and scalable backend systems**
+* 🐧 Passionate about **Linux, DevOps, containerization, and production infrastructure**
+* 🪢 Currently building backend systems with **NestJS, Drizzle, PostgreSQL, Redis, and Vitest**
+* 🏗️ Interested in designing systems that are **maintainable, performant, reliable, and easy to deploy**
 
-<br/>
+I focus on building backend systems with a strong emphasis on **architecture, performance, and maintainability** — from API design and database structure to containerization and deployment.
 
-- ⚙️ **Backend‑focused full‑stack** developer with a passion for **system architecture**
-- 🐧 Deeply interested in **Linux**, **DevOps**, and **containerization (Docker)**
-- 🪢 Currently working with **NestJS**, **Drizzle**, **PostgreSQL** and **Vitest**
-- 💬 Ask me about **backend design**, **API architecture**, or **system structure**
-
-**I build scalable backends with NestJS + PostgreSQL.**  
-Passionate about backend architecture, Linux, and containerization.  
-A good backend = structure + performance + reproducibility.
+**Backend is more than making an API work.
+It's about building systems that continue to work well as they grow.**
 
 ---
 
