@@ -29,15 +29,15 @@ It's about building systems that continue to work well as they grow.**
 
 ## 🛠️ Technologies I Use
 
-<div align="center"><p><strong>Programming Languages & Frameworks</strong></p></div>
+<div align="center"><p><strong>Programming Languages, Frameworks & Runtimes</strong></p></div>
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/><br><sub><b>Python</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><br><sub><b>JavaScript</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/><br><sub><b>TypeScript</b></sub></td>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=nodejs&textAlignment=vertical" width="50" /><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bun&perline=9&theme=dark" /><br><sub><b>Bun</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br><sub><b>React.js</b></sub></td>
@@ -85,13 +85,11 @@ It's about building systems that continue to work well as they grow.**
 <br/>
 <br/>
 
-<div align="center"><p><strong>Advanced</strong></p></div>
+<div align="center"><p><strong>Additional Tools & Technologies</strong></p></div>
 <div align="center">
 <table><tr>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=graphql&textAlignment=vertical" width="50" /><br><sub><b>GraphQL</b></sub></td>
 <td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=socketdotio&textAlignment=vertical&color=%233b82f6" width="50" /><br><sub><b>WebSocket</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="48" height="48" style="filter: invert(1);"/><br><sub><b>Vitest</b></sub></td>
-<td align="center" width="100"><img src="https://readmecodegen.vercel.app/api/social-icon?name=zod&textAlignment=vertical" width="50" /><br><sub><b>Zod</b></sub></td>
 </tr></table>
 </div>
 </div>
