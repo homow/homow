@@ -4,7 +4,9 @@
     <strong>Full-Stack Developer</strong></div>
 
   <div>
-    <strong>System Architecture, Backend‑focused & DevOps</strong>
+    <strong>
+      System Architecture, Backend‑focused & DevOps
+    </strong>
   </div>
   
   <br></br>
