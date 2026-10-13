@@ -116,6 +116,31 @@ It's about building systems that continue to work well as they grow.**
 </div>
 
 ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=homow&theme=radical&show_icons=true&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1" alt="GitHub Stats" />
+  <br />
+  <strong>Profile Stats</strong>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=homow&theme=radical&disable_animations=true&card_width=440&border_radius=18&border_color=BA935B&border_width=1" alt="GitHub Streak" />
+  <br />
+  <strong>Contribution Streak</strong>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=homow&theme=radical&layout=compact&card_width=395&border_radius=18&border_color=BA935B&border_width=1" alt="Top Languages" />
+</div>
+
+---
+
 ## 📬 Contact Me
 
 Feel free to reach out for collaboration
