@@ -6,7 +6,7 @@
   <div>
     <strong>System Architecture, Backend‑focused & DevOps</strong>
   </div>
-  
+
   <br></br>
   
   <div align="center">
