@@ -1,7 +1,10 @@
 <div align="center">
 
   <div>
-    <strong>Full-Stack Developer</strong></div>
+    <strong>
+      Full-Stack Developer
+    </strong>
+  </div>
 
   <div>
     <strong>System Architecture, Backend‑focused & DevOps</strong>
